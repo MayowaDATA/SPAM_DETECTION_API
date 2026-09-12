@@ -181,12 +181,12 @@ curl -X POST http://127.0.0.1:8000/predict \
 ## 📝 Key Takeaways & Architecture Notes
 - **FastAPI vs. Flask:** FastAPI offers automatic request validation via Pydantic and self-documenting OpenAPI interfaces (`/docs`), whereas standard Flask requires manual JSON payload inspection and manual status code error management.
 - **Production Server:** Using Uvicorn/Gunicorn as an ASGI/WSGI production server instead of built-in development servers provides worker management and connection stability under concurrent traffic.
-
-👨‍💻 Author & Contact
+🧑‍💻 Author & Contact
 Author: Mayowa Adeboye
 
-Email: adeboyemayowa86@gmail.com
+Email: [adeboyemayowa86@gmail.com](mailto:adeboyemayowa86@gmail.com)
 
-LinkedIn: linkedin.com/in/mayowaadeboye
+LinkedIn: [mayowaadeboye](https://linkedin.com/in/mayowaadeboye)
 
-GitHub: github.com/MayowaDATA
+GitHub: [MayowaDATA](https://github.com/MayowaDATA)
+
