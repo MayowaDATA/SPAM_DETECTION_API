@@ -1,7 +1,7 @@
 # SMS Spam Detection API
 
 An end-to-end NLP and containerized microservice built to classify incoming SMS notifications as legitimate (`ham`) or `spam` in real time.
-
+![API Prediction Demo](./Spam_Detection.png)
 ---
 
 ## 📌 Project Overview & Scenario
