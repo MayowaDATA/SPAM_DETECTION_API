@@ -1,0 +1,17 @@
+numpy
+pandas
+openpyxl
+matplotlib
+seaborn
+sqlalchemy
+scikit-learn
+ipykernel
+imblearn
+plotly
+xgboost
+nbformat
+nltk
+fastapi
+uvicorn
+pydantic
+joblib
