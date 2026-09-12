@@ -13,7 +13,6 @@ This project delivers an end-to-end Machine Learning solution:
 2. **API Architecture:** Designing a RESTful API with strict input validation, single-load model initialization, and standard HTTP response codes.
 3. **Containerization:** Packaging the service inside Docker with an enterprise-ready server for zero-drift deployment.
 
-![API Prediction Demo](Spam_Detection.png)
 ---
 
 ## 🗂️ Project Structure
